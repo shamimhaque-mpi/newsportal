@@ -1,0 +1,36 @@
+
+
+.megamenu {
+	right: -30% !important;
+    top: 100% !important;
+}
+.categorie-box:hover {
+	transition: 0.3s ease-in-out;
+    box-shadow: 2px 4px 10px 0px #888;
+}
+.slick-slide-item {
+	padding: 53px 15px !important;
+	border-radius: 15px !important;
+	transition: 0.3s ease-in-out;
+}
+.slick-slide-item:hover {
+    box-shadow: 1px 4px 15px -2px #888 !important;
+}
+.footer .footer-inner .links li a:hover {
+	color: #bbb !important;
+}
+.partners .slick-slider-area .slick-track .slick-slide{
+    height: 30% !important;
+}
+.footer .footer-inner form .form-control {
+    border: 1px solid #376bff;
+}
+.footer .form-inline .btn {
+    padding: 13.5px 13px !important;
+    margin-left: -2px;
+}
+.content-area .slick-slider-area .slick-arrow-buton {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
